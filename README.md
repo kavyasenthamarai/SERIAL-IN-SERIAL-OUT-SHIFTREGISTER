@@ -1,6 +1,6 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-### DEVELOPED BY:KEERTHANA.V
-### REG NO:212223220045
+### DEVELOPED BY:KAVYA K
+### REG NO:212222230065
 ## AIM:
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
